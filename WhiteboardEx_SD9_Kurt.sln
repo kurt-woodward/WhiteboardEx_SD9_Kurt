@@ -7,11 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhiteboardEx_SD9_Kurt", "Wh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddOrEven", "..\OddOrEven\OddOrEven.csproj", "{604AAC41-16E1-4FA6-9FD0-8C8C66B93ED3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabetizeTest", "..\AlphabetizeTest\AlphabetizeTest.csproj", "{940E5CFB-97F5-4EBC-922D-90744042A745}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlphabetizeTest", "..\AlphabetizeTest\AlphabetizeTest.csproj", "{940E5CFB-97F5-4EBC-922D-90744042A745}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alphbetize", "..\Alphbetize\Alphbetize.csproj", "{635E9E48-9303-43AB-9E90-C84CC4CBDD6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alphbetize", "..\Alphbetize\Alphbetize.csproj", "{635E9E48-9303-43AB-9E90-C84CC4CBDD6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "camelCase", "..\camelCase\camelCase.csproj", "{8A97B88E-37C2-4964-A9DA-6FC65A9058F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "camelCase", "..\camelCase\camelCase.csproj", "{8A97B88E-37C2-4964-A9DA-6FC65A9058F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPrimeTest", "..\IsPrimeTest\IsPrimeTest.csproj", "{304B2F64-CA08-41DC-8603-04815D7A137D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeCheckerTests", "..\PrimeCheckerTests\PrimeCheckerTests.csproj", "{C8A8F841-0B87-4705-BF9B-2B1824F8F21C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfPrimeTest", "..\SumOfPrimeTest\SumOfPrimeTest.csproj", "{0260A401-41C0-48EC-AC7B-63E0F5DB4B4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{8A97B88E-37C2-4964-A9DA-6FC65A9058F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A97B88E-37C2-4964-A9DA-6FC65A9058F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A97B88E-37C2-4964-A9DA-6FC65A9058F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{304B2F64-CA08-41DC-8603-04815D7A137D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304B2F64-CA08-41DC-8603-04815D7A137D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304B2F64-CA08-41DC-8603-04815D7A137D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304B2F64-CA08-41DC-8603-04815D7A137D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8A8F841-0B87-4705-BF9B-2B1824F8F21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A8F841-0B87-4705-BF9B-2B1824F8F21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A8F841-0B87-4705-BF9B-2B1824F8F21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A8F841-0B87-4705-BF9B-2B1824F8F21C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0260A401-41C0-48EC-AC7B-63E0F5DB4B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0260A401-41C0-48EC-AC7B-63E0F5DB4B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0260A401-41C0-48EC-AC7B-63E0F5DB4B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0260A401-41C0-48EC-AC7B-63E0F5DB4B4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
